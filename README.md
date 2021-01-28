@@ -55,6 +55,6 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=leungll&show_icons=true&include_all_commits=true?count_private=true"/>
 </a>
 <a href="https://github.com/leungll">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leungll&layout=compact"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leungll&layout=compact&hide=html"/>
 </a>
 <!-- </div> -->
