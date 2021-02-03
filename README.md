@@ -27,10 +27,15 @@ Here are some ideas to get you started:
 - 📃 **[BLOG RSS](https://leungll.github.io/atom.xml)**
 - ⚡ **CSDN: [https://blog.csdn.net/liangllhahaha](https://blog.csdn.net/liangllhahaha)**
 - 💬 **Email: leungll0316@gmail.com**
+- **[My historical account](https://github.com/lianglilihahaha)**
 
 ### Project
 - **[https://github.com/leungll](https://github.com/leungll)**
 - **[https://gitee.com/LL_Leung](https://gitee.com/LL_Leung)**
+
+### My Github Report
+- https://hacknical.com/leungll/visualize
+- https://hacknical.com/lianglilihahaha/visualize
 
 <!-- <div align="left">
     <h3>Contact me</h3>   
