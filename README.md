@@ -32,10 +32,7 @@ Here are some ideas to get you started:
 ### Project
 - **[https://github.com/leungll](https://github.com/leungll)**
 - **[https://gitee.com/LL_Leung](https://gitee.com/LL_Leung)**
-
-### My Github Report
-- https://hacknical.com/leungll/visualize
-- https://hacknical.com/lianglilihahaha/visualize
+- **My Github Report: [leungll](https://hacknical.com/leungll/visualize)** & **[Historical Account](https://hacknical.com/lianglilihahaha/visualize)**
 
 <!-- <div align="left">
     <h3>Contact me</h3>   
