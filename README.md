@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 👉 **BLOG: [https://leungll.github.io](https://leungll.github.io)**
 - 📃 **[BLOG RSS](https://leungll.github.io/atom.xml)**
 - ⚡ **CSDN: [https://blog.csdn.net/liangllhahaha](https://blog.csdn.net/liangllhahaha)**
-- 💬 **Email: leung_lili@163.com**
+- 💬 **Email: leungll0316@gmail.com**
 
 ### Project
 - **[https://github.com/leungll](https://github.com/leungll)**
