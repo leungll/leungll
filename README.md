@@ -23,14 +23,14 @@ Here are some ideas to get you started:
 <h2 align="center">👋 Hi! I am LL Leung.</h2>
 
 ### Contact me
-- 👉 **BLOG: [https://leungll.github.io](https://leungll.github.io)**
-- 📃 **[BLOG RSS](https://leungll.github.io/atom.xml)**
+- 👉 **BLOG: [https://leungll.site](https://leungll.site)**
+- 📃 **[BLOG RSS](https://leungll.site/atom.xml)**
 - ⚡ **CSDN: [https://blog.csdn.net/liangllhahaha](https://blog.csdn.net/liangllhahaha)**
 - 💬 **Email: leungll0316@gmail.com**
 
 ### Project
 - **[https://github.com/leungll](https://github.com/leungll)**
-- **[https://gitee.com/LL_Leung](https://gitee.com/LL_Leung)**
+- **[https://gitee.com/LL_Leung](https://gitee.com/leungll)**
 - **Github Report: [leungll](https://hacknical.com/leungll/github?locale=zh)** & **[Historical Account](https://hacknical.com/lianglilihahaha/github?locale=zh)**
 
 <!-- <div align="left">
