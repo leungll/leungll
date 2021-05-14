@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ### Project
 - **[https://github.com/leungll](https://github.com/leungll)**
-- **[https://gitee.com/LL_Leung](https://gitee.com/leungll)**
+- **[https://gitee.com/leungll](https://gitee.com/leungll)**
 - **Github Report: [leungll](https://hacknical.com/leungll/github?locale=zh)** & **[Historical Account](https://hacknical.com/lianglilihahaha/github?locale=zh)**
 
 <!-- <div align="left">
