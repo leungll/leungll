@@ -97,3 +97,4 @@ C++                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
+<img src="https://raw.githubusercontent.com/leungll/leungll/master/github-metrics.svg" alt="Metrics" width="100%" />
