@@ -2,13 +2,13 @@
  * @Author: Lili Liang
  * @Date: 2024-05-23 01:54:11
  * @LastEditors: Lili Liang
- * @LastEditTime: 2024-05-23 02:01:11
+ * @LastEditTime: 2024-05-23 02:02:29
  * @Description: Please set description
 -->
 ## About me
-- Master student @Carnegie Mellon University, Ex SDE Full-time @ByteDance
+- Master student @Carnegie Mellon University, Ex SDE Full-time @ByteDance.
 - I am active in <u>engineering development</u> and <u>open source</u>.
-- Github Report: [leungll](https://hacknical.com/leungll/github?locale=zh), [Historical Account](https://hacknical.com/lianglilihahaha/github?locale=zh)
+- Github Report: [leungll](https://hacknical.com/leungll/github?locale=zh), [Historical Account](https://hacknical.com/lianglilihahaha/github?locale=zh).
 
 ---
 
