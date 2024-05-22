@@ -27,7 +27,7 @@ jobs:
           # Options
           user: leungll
           template: classic
-          base: header, activity, community
+          base: header, activity, community, repositories
           config_timezone: Asia/Shanghai
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
