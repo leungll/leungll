@@ -59,7 +59,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
-```txt
+```rust
+From: 21 May 2024 - To: 22 May 2024
+
+Total Time: 26 mins
+
 Markdown   26 mins         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   100.00 %
 ```
 
