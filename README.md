@@ -1,39 +1,16 @@
-<!-- <h2 align="center">👋 Hey friends! I am Lili Liang 梁莉莉</h2> -->
+<!--
+ * @Author: Lili Liang
+ * @Date: 2024-05-23 01:54:11
+ * @LastEditors: Lili Liang
+ * @LastEditTime: 2024-05-23 02:01:11
+ * @Description: Please set description
+-->
+## About me
+- Master student @Carnegie Mellon University, Ex SDE Full-time @ByteDance
+- I am active in <u>engineering development</u> and <u>open source</u>.
+- Github Report: [leungll](https://hacknical.com/leungll/github?locale=zh), [Historical Account](https://hacknical.com/lianglilihahaha/github?locale=zh)
 
-<!-- ### Contact me
-- 👉 **[[BLOG]](https://leungll.site)([BLOG RSS](https://leungll.site/atom.xml)), [[CSDN]](https://blog.csdn.net/liangllhahaha)**
-- 💬 **Email: l.liang0316@gmail.com**
-
-### Project
-- **[[GitHub]](https://github.com/leungll), [[Gitee]](https://gitee.com/l2liang)**
-- **Github Report: [leungll](https://hacknical.com/leungll/github?locale=zh)** & **[Historical Account](https://hacknical.com/lianglilihahaha/github?locale=zh)** -->
-
-<!-- <div align="left">
-    <h3>Contact me</h3>   
-    <ul>
-        <li>
-            👉 <strong>BLOG: <a href="https://leungll.github.io">https://leungll.github.io</a></strong>
-        </li>
-        <li>
-            📃 <strong><a href="https://leungll.github.io">BLOG RSS</a></strong>
-        </li>
-        <li>
-            ⚡ <strong>CSDN: <a href="https://blog.csdn.net/liangllhahaha">https://blog.csdn.net/liangllhahaha</a></strong>
-        </li>
-        <li>
-            💬 <strong>Email: leung_lili@163.com</strong>
-        </li>
-    </ul>
-</div> -->
-
-<!-- <div align="center"> -->
-<!-- <a href="https://github.com/leungll">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=leungll&rank_icon=github"/>
-</a>
-<a href="https://github.com/leungll">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leungll&layout=compact&hide=html"/>
-</a> -->
-<!-- </div> -->
+---
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
