@@ -1,34 +1,12 @@
-<!-- ## Hi there 👋 -->
+<!-- <h2 align="center">👋 Hey friends! I am Lili Liang 梁莉莉</h2> -->
 
-<!--
-**leungll/leungll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- <div align="center">
-    <a href="https://leungll.github.io/">Blog · </a>
-    <a href="https://blog.csdn.net/liangllhahaha">CSDN</a>
-</div> -->
-
-<h2 align="center">👋 Hi! I am Lili Liang 梁莉莉.</h2>
-
-### Contact me
+<!-- ### Contact me
 - 👉 **[[BLOG]](https://leungll.site)([BLOG RSS](https://leungll.site/atom.xml)), [[CSDN]](https://blog.csdn.net/liangllhahaha)**
 - 💬 **Email: l.liang0316@gmail.com**
 
 ### Project
 - **[[GitHub]](https://github.com/leungll), [[Gitee]](https://gitee.com/l2liang)**
-- **Github Report: [leungll](https://hacknical.com/leungll/github?locale=zh)** & **[Historical Account](https://hacknical.com/lianglilihahaha/github?locale=zh)**
+- **Github Report: [leungll](https://hacknical.com/leungll/github?locale=zh)** & **[Historical Account](https://hacknical.com/lianglilihahaha/github?locale=zh)** -->
 
 <!-- <div align="left">
     <h3>Contact me</h3>   
@@ -49,12 +27,12 @@ Here are some ideas to get you started:
 </div> -->
 
 <!-- <div align="center"> -->
-<a href="https://github.com/leungll">
+<!-- <a href="https://github.com/leungll">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=leungll&rank_icon=github"/>
 </a>
 <a href="https://github.com/leungll">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leungll&layout=compact&hide=html"/>
-</a>
+</a> -->
 <!-- </div> -->
 
 <!--START_SECTION:waka-->
@@ -82,5 +60,8 @@ Here are some ideas to get you started:
 
 
 <!--END_SECTION:waka-->
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=leungll&show_icons=true&hide_border=true&rank_icon=github" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=leungll&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 <img src="https://raw.githubusercontent.com/leungll/leungll/master/github-metrics.svg" alt="Metrics" width="100%">
