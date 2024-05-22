@@ -58,14 +58,39 @@ Here are some ideas to get you started:
 <!-- </div> -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-37%20mins-blue)
 
-```rust
-From: 21 May 2024 - To: 22 May 2024
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-Total Time: 26 mins
+**🐱 My GitHub Data** 
 
-Markdown   26 mins         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   100.00 %
+> 📦 2.7 MB Used in GitHub's Storage 
+ > 
+> 🏆 435 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 28 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               7 repos             ████████░░░░░░░░░░░░░░░░░   30.43 % 
+TeX                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/leungll/leungll/master/assets/bar_graph.png)
+
+
+ Last Updated on 22/05/2024 16:13:18 UTC
 <!--END_SECTION:waka-->
 
