@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <!-- <div align="center"> -->
 <a href="https://github.com/leungll">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=leungll&show_icons=true&include_all_commits=true?count_private=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=leungll&rank_icon=github"/>
 </a>
 <a href="https://github.com/leungll">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leungll&layout=compact&hide=html"/>
