@@ -2,7 +2,7 @@
  * @Author: Lili Liang
  * @Date: 2024-05-23 01:54:11
  * @LastEditors: Lili Liang
- * @LastEditTime: 2024-05-23 02:13:12
+ * @LastEditTime: 2024-05-23 14:04:38
  * @Description: Please set description
 -->
 ## About me
@@ -26,7 +26,12 @@
 
 <!--END_SECTION:waka-->
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=leungll&show_icons=true&hide_border=true&rank_icon=github" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=leungll&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF" /> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+<!--github-readme-stats-->
+<!-- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=leungll&show_icons=true&hide_border=true&rank_icon=github" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=leungll&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | -->
 
+![vercel](https://github-readme-stats.vercel.app/api?username=leungll&show_icons=true&hide_border=true&rank_icon=github) | ![herokuapp](https://github-readme-streak-stats.herokuapp.com?user=leungll&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF)
+---|---
+
+<!--Metrics-->
 <img src="https://raw.githubusercontent.com/leungll/leungll/master/github-metrics.svg" alt="Metrics" width="100%">
