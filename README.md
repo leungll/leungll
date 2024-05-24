@@ -27,7 +27,7 @@
 <!--END_SECTION:waka-->
 
 <!--github-readme-stats-->
-![vercel](https://github-readme-stats.vercel.app/api?username=leungll&show_icons=true&hide_border=true&rank_icon=github) | ![herokuapp](https://github-readme-streak-stats.herokuapp.com?user=leungll&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF)
+![vercel](https://github-readme-stats.vercel.app/api?username=leungll&count_private=true&show_icons=true&hide_border=true&rank_icon=github) | ![herokuapp](https://github-readme-streak-stats.herokuapp.com?user=leungll&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF)
 ---|---
 
 <!--Metrics-->
