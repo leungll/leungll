@@ -6,7 +6,8 @@
  * @Description: Please set description
 -->
 ## About me
-- Master student @[Carnegie Mellon University](https://www.cmu.edu/), Ex SDE Full-time @[ByteDance](https://www.bytedance.com/en/).
+- Master student @[Carnegie Mellon University](https://www.cmu.edu/).
+- Ex SDE Full-time @[ByteDance](https://www.bytedance.com/en/).
 - I am active in <u>engineering development</u> and <u>open source</u>.
 - GitHub Report: [leungll](https://hacknical.com/leungll/github), [Historical Account](https://hacknical.com/lianglilihahaha/github?locale=en).
 
