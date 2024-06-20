@@ -7,7 +7,7 @@
 -->
 ## About me
 - Master student @[Carnegie Mellon University](https://www.cmu.edu/).
-- Ex SDE Full-time @[ByteDance](https://www.bytedance.com/en/).
+- I worked at [ByteDance](https://www.bytedance.com/en/) for more than 2 years as a back-end software engineer.
 - I am active in <u>engineering development</u> and <u>open source</u>.
 - GitHub Report: [leungll](https://hacknical.com/leungll/github), [Historical Account](https://hacknical.com/lianglilihahaha/github?locale=en).
 
