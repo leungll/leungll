@@ -11,6 +11,7 @@
 - I am active in <u>engineering development</u> and <u>open source</u>.
 - GitHub Report: [leungll](https://hacknical.com/leungll/github), [Historical Account](https://hacknical.com/lianglilihahaha/github?locale=en)
 - More about me: <https://leungll.site/about>
+- [Backup Blog Mirror](https://l2liang.site/about>)
 
 ---
 
