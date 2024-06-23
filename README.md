@@ -2,7 +2,7 @@
  * @Author: Lili Liang
  * @Date: 2024-05-23 01:54:11
  * @LastEditors: Lili Liang
- * @LastEditTime: 2024-06-23 14:52:49
+ * @LastEditTime: 2024-06-23 14:54:11
  * @Description: Please set description
 -->
 ## About me
@@ -11,7 +11,7 @@
 - I am active in <u>engineering development</u> and <u>open source</u>.
 - GitHub Report: [leungll](https://hacknical.com/leungll/github), [Historical Account](https://hacknical.com/lianglilihahaha/github?locale=en)
 - More about me: <https://leungll.site/about>
-- For users whose ip from China, maybe you can visit my [Backup Blog Mirror](https://l2liang.site/about>) for faster access speed.
+- For users whose ip from China, maybe you can visit my [Backup Blog Mirror](https://l2liang.site/about) for faster access speed.
 
 ---
 
