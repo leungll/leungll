@@ -7,8 +7,8 @@
 -->
 ## About me
 - M.S. student @[Carnegie Mellon University](https://www.cmu.edu)
-- I worked at TikTok International E-Commerce Fulfillment Group @[ByteDance](https://www.bytedance.com/en) for over 2 years as a back-end software engineer.
-- I am active in <u>engineering development</u> and <u>open source</u>.
+- Former back-end software engineer @[ByteDance](https://www.bytedance.com/en) in the TikTok International E-Commerce Fulfillment Group.
+- Actively engaged in <u>engineering development</u> and <u>open source projects</u>.
 - GitHub Report: [leungll](https://hacknical.com/leungll/github), [Historical Account](https://hacknical.com/lianglilihahaha/github?locale=en)
 - More about me: <https://leungll.site/about>
 - For users whose ip from China, maybe you can visit my [Backup Blog Mirror](https://l2liang.site/about) for faster access speed.
