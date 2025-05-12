@@ -7,7 +7,8 @@
 -->
 ## About me
 - M.S. student @[Carnegie Mellon University](https://www.cmu.edu)
-- Before CMU, I worked as a back-end software engineer at [TikTok (ByteDance)](https://www.bytedance.com/en), contributing to the Global E-Commerce Fulfillment Group from July 2021 to October 2023.
+- I am a member of the the Distributed Systems Research Group, working with Prof. [Leonardo Sousa](https://ssousaleo.github.io) at the Carnegie Mellon University.
+- Before Carnegie Mellon, I worked as a back-end software engineer at [TikTok](https://www.bytedance.com/en), where I contributed to the Global E-Commerce Fulfillment Group from July 2021 to October 2023.
 - Actively engaged in <u>engineering development</u> and <u>open source projects</u>.
 - GitHub Report: [leungll](https://hacknical.com/leungll/github), [Historical Account](https://hacknical.com/lianglilihahaha/github?locale=en)
 - More about me: <https://leungll.site/about>
