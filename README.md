@@ -6,9 +6,12 @@
  * @Description: Please set description
 -->
 ## About me
+<!--
 - M.S. student @[Carnegie Mellon University](https://www.cmu.edu)
 - I am a member of the the Distributed Systems Research Group, working with Prof. [Leonardo Sousa](https://ssousaleo.github.io) at the Carnegie Mellon University.
 - Before Carnegie Mellon, I worked as a software engineer at [TikTok](https://www.bytedance.com/en), where I contributed to the Global E-Commerce Logistics and Fulfillment Group from July 2021 to October 2023.
+-->
+- Software Engineer at TikTok, Carnegie Mellon '26
 - Actively engaged in <u>engineering development</u> and <u>open source projects</u>.
 - GitHub Report: [leungll](https://hacknical.com/leungll/github), [Historical Account](https://hacknical.com/lianglilihahaha/github?locale=en)
 - More about me: <https://leungll.site/about>
@@ -31,8 +34,8 @@
 <!--END_SECTION:waka-->
 
 <!--github-readme-stats-->
-![vercel](https://github-readme-stats.vercel.app/api?username=leungll&count_private=true&show_icons=true&hide_border=true&rank_icon=github) | ![herokuapp](https://github-readme-streak-stats.herokuapp.com?user=leungll&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF)
----|---
+<!--![vercel](https://github-readme-stats.vercel.app/api?username=leungll&count_private=true&show_icons=true&hide_border=true&rank_icon=github) | ![herokuapp](https://github-readme-streak-stats.herokuapp.com?user=leungll&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF)-->
+![herokuapp](https://github-readme-streak-stats.herokuapp.com?user=leungll&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF)
 
 <!--Metrics-->
-<img src="https://raw.githubusercontent.com/leungll/leungll/master/github-metrics.svg" alt="Metrics" width="100%">
+<!--<img src="https://raw.githubusercontent.com/leungll/leungll/master/github-metrics.svg" alt="Metrics" width="100%">-->
