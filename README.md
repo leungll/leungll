@@ -5,14 +5,25 @@
  * @LastEditTime: 2024-11-10 20:01:15
  * @Description: Please set description
 -->
-## About me
-- M.S. student @[Carnegie Mellon University](https://www.cmu.edu)
-- I am a member of the the Distributed Systems Research Group, working with Prof. [Leonardo Sousa](https://ssousaleo.github.io) at the Carnegie Mellon University.
-- Before Carnegie Mellon, I worked as a software engineer at [TikTok](https://www.bytedance.com/en), where I contributed to the Global E-Commerce Logistics and Fulfillment Group from July 2021 to October 2023.
-- Actively engaged in <u>engineering development</u> and <u>open source projects</u>.
-- GitHub Report: [leungll](https://hacknical.com/leungll/github), [Historical Account](https://hacknical.com/lianglilihahaha/github?locale=en)
-- More about me: <https://leungll.site/about>
-- For users whose ip from China, maybe you can visit my [Backup Blog Mirror](https://l2liang.site/about) for faster access speed.
+## About Me
+
+- Software Engineer at [TikTok](https://www.tiktok.com), building distributed backend systems and platform infrastructure for modern AI systems.
+- M.S. in Software Engineering from [Carnegie Mellon University](https://www.cmu.edu), where I worked with Prof. [Leonardo Sousa](https://ssousaleo.github.io) in the Distributed Systems Research Group.
+- Interested in distributed systems, cloud-native infrastructure, and runtime infrastructure for long-running, stateful AI workflows.
+- I enjoy building open-source software and sharing what I learn through technical writing.
+
+## Links
+
+- [Personal Website](https://leungll.site/about)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/l2liang).
+- 🇨🇳 For visitors from mainland China, a faster mirror is available [here](https://l2liang.site/about).
+
+---
+
+## GitHub Reports
+
+- 📈 [Current Account](https://hacknical.com/leungll/github)
+- 📜 [Historical Account](https://hacknical.com/lianglilihahaha/github?locale=en)
 
 ---
 
