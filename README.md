@@ -10,10 +10,10 @@
 - [Personal Website](https://leungll.site/about) | 🇨🇳 For visitors from mainland China, a faster mirror is available [here](https://l2liang.site/about).
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/l2liang).
 
-## GitHub Reports
+<!-- ## GitHub Reports
 
 - 📈 [Current Account](https://hacknical.com/leungll/github)
-- 📜 [Historical Account](https://hacknical.com/lianglilihahaha/github?locale=en)
+- 📜 [Historical Account](https://hacknical.com/lianglilihahaha/github?locale=en) -->
 
 ---
 
