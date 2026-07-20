@@ -1,7 +1,7 @@
 ## About Me
 
 - Software Engineer at [TikTok](https://www.bytedance.com/en), building distributed backend systems and platform infrastructure for modern AI systems.
-- Previously at [Carnegie Mellon University](https://www.cmu.edu), where I worked with Prof. [Leonardo Sousa](https://ssousaleo.github.io) in the Distributed Systems Research Group.
+- Earned a Master's degree in Software Engineering from [Carnegie Mellon University](https://www.cmu.edu), where I worked with Prof. [Leonardo Sousa](https://ssousaleo.github.io) in the Distributed Systems Research Group.
 - Interested in distributed systems, cloud-native infrastructure, and runtime infrastructure for long-running, stateful AI workflows.
 - I enjoy building open-source software and sharing what I learn through technical writing.
 
