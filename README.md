@@ -5,15 +5,11 @@
 - Interested in distributed systems, cloud-native infrastructure, and runtime infrastructure for long-running, stateful AI workflows.
 - I enjoy building open-source software and sharing what I learn through technical writing.
 
----
-
 ## Links
 
 - [Personal Website](https://leungll.site/about)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/l2liang).
 - 🇨🇳 For visitors from mainland China, a faster mirror is available [here](https://l2liang.site/about).
-
----
 
 ## GitHub Reports
 
