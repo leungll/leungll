@@ -18,6 +18,8 @@
 ---
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2043%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
