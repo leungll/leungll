@@ -18,39 +18,40 @@
 ---
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-39%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-39%20hrs%2044%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                411 commits         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.09 % 
-🌆 Daytime                198 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.12 % 
-🌃 Evening                800 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.94 % 
-🌙 Night                  371 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.84 % 
+🌞 Morning                411 commits         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.14 % 
+🌆 Daytime                194 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.92 % 
+🌃 Evening                800 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   45.05 % 
+🌙 Night                  371 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.89 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 22 mins (97.85%)
+⏱ AI Coding Time: 13 hrs 6 mins (96.49%)
 
-✍️ 7,306 lines written by AI, 8 lines written by hand (99.89% AI-written)
+✍️ 7,749 lines written by AI, 19 lines written by hand (99.76% AI-written)
 
-🔤 3,365,930 Input Tokens, 955,162 Output Tokens
+🔤 5,121,215 Input Tokens, 1,148,637 Output Tokens
 
-💵 $57.39 Estimated AI Cost This Week
+💵 $70.92 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 183 AI Prompts
+🧠 17 AI Sessions, 280 AI Prompts
 
-Opus                     7,313 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
-GPT                      0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
+Opus                     7,313 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   91.40 % 
+GPT                      688 lines           ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.60 % 
+Fable                    0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.89% of written lines came from AI
-📚 Verbose Prompter — average 3,027 characters per prompt
-🔁 Iterative Prompter — average 20 prompts per session
-🚀 High AI Trust — 0.16% of changed lines were hand-edited
+🤖 AI-Driven — 99.76% of written lines came from AI
+📚 Verbose Prompter — average 2,353 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 2.75% of changed lines were hand-edited
 ```
 
 
