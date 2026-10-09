@@ -18,7 +18,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20hrs%2043%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -33,26 +33,27 @@
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 32 mins (94.73%)
+⏱ AI Coding Time: 24 hrs 10 mins (94.06%)
 
-✍️ 2,843 lines written by AI, 61 lines written by hand (97.9% AI-written)
+✍️ 2,012 lines written by AI, 88 lines written by hand (95.81% AI-written)
 
-🔤 6,230,465 Input Tokens, 1,123,200 Output Tokens
+🔤 10,322,427 Input Tokens, 1,735,928 Output Tokens
 
-💵 $79.35 Estimated AI Cost This Week
+💵 $139.46 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 345 AI Prompts
+🧠 30 AI Sessions, 479 AI Prompts
 
-Opus                     2,378 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   76.86 % 
-GPT                      716 lines           ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.14 % 
-Fable                    0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
+Opus                     1,365 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   60.32 % 
+GPT                      716 lines           ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.64 % 
+Fable                    182 lines           ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.04 % 
 Claude-Code              0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
+Sonnet                   0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.9% of written lines came from AI
-📚 Verbose Prompter — average 1,850 characters per prompt
+🤖 AI-Driven — 95.81% of written lines came from AI
+📚 Verbose Prompter — average 2,321 characters per prompt
 🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 11.27% of changed lines were hand-edited
+🚀 High AI Trust — 15.72% of changed lines were hand-edited
 ```
 
 
